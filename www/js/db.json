@@ -1,0 +1,51 @@
+{
+    "cicle": "Desenvolupament d’aplicacions web",
+    "codi": "C001",
+    "hores": 2000,
+    "mps": [
+        {
+            "nom": "MP06-Desenvolupament web entorn client",
+            "codi": "M6",
+            "ufs": [
+                {
+                    "nom": "UF1-Sintaxis del lenguaje",
+                    "codi": "6UF1"
+                },
+                {
+                    "nom": "UF2-Estructuras definidas",
+                    "codi": "6UF2"
+                },
+                {
+                    "nom": "UF3-DOM",
+                    "codi": "6UF3"
+                },
+                {
+                    "nom": "UF4-Comunicación asíncrona cliente-servidor",
+                    "codi": "6UF4"
+                }
+            ]
+        },
+        {
+            "nom": "MP07-Desenvolupament web en entorn servidor",
+            "codi": "M7",
+            "ufs": [
+                {
+                    "nom": "UF1-Desenvolupament web entorn servidor",
+                    "codi": "7UF1"
+                },
+                {
+                    "nom": "UF2-Generació dinàmica de pàgines web",
+                    "codi": "7UF2"
+                },
+                {
+                    "nom": "UF3-Accés a dades",
+                    "codi": "7UF3"
+                },
+                {
+                    "nom": "UF4-Serveis web",
+                    "codi": "7UF4"
+                }
+            ]
+        }
+    ]
+}   
